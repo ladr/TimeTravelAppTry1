@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">TimeTravel</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">TimeTravelFree</string>
+    <string name="lblTimeText">Current Time:</string>
+    <string name="tvTimeText"></string>
+    <string name="btnChangeTimeText">Change Year</string>
     <string name="action_settings">Settings</string>
 
 </resources>

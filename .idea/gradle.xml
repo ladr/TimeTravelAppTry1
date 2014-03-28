@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="C:\Users\user\AndroidStudioProjects\Temp\TimeTravel" />
-            <option value="C:\Users\user\AndroidStudioProjects\Temp\TimeTravel\apptry1" />
+            <option value="C:\Android\AndroidStudioProjects\TimeTravelAppTry1" />
+            <option value="C:\Android\AndroidStudioProjects\TimeTravelAppTry1\apptry1" />
           </set>
         </option>
       </GradleProjectSettings>

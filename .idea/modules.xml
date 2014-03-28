@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules />
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TimeTravelAppTry1.iml" filepath="$PROJECT_DIR$/TimeTravelAppTry1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apptry1/apptry1.iml" filepath="$PROJECT_DIR$/apptry1/apptry1.iml" />
+    </modules>
   </component>
 </project>
 
